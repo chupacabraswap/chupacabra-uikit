@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/chupacabraswap/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://chupacabraswap.gitbook.io/finance/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://chupacabraswap.medium.com/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/chupacabraswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "https://t.me/chupacabraswapchinese",
       },
       // {
       //   label: "Tiếng Việt",
@@ -136,15 +136,15 @@ export const socials = [
       // },
       {
         label: "Italiano",
-        href: "https://t.me/goosefinanceitalian",
+        href: "https://t.me/chupacabraswapitalian",
       },
       {
         label: "русский",
-        href: "https://t.me/goosefinancerussian",
+        href: "https://t.me/chupacabraswaprussian",
       },
       {
         label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
+        href: "https://t.me/ChupacabraswapTurkey",
       },
       // {
       //   label: "Português",
@@ -152,19 +152,19 @@ export const socials = [
       // },
       {
         label: "Español",
-        href: "https://t.me/goosefinancespanish",
+        href: "https://t.me/chupacabraswapspanish",
       },
       {
         label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
+        href: "https://t.me/chupacabraswapjapanese",
       },
       {
         label: "Français",
-        href: "https://t.me/goosefinancefrench",
+        href: "https://t.me/chupacabraswapfrench",
       },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/chupacabraswapann",
       },
       {
         label: "Price Bot",
@@ -175,12 +175,12 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/chupacabraswap",
   },
   {
     label: "Reddit",
     icon: "RedditIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
+    href: "https://www.reddit.com/r/Chupacabraswapofficial",
   },
 ];
 
