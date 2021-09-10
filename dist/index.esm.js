@@ -2189,10 +2189,6 @@ var links = [
         label: "More",
         icon: "MoreIcon",
         items: [
-            // {
-            //   label: "Voting",
-            //   href: "https://voting.pancakeswap.finance",
-            // },
             {
                 label: "Github",
                 href: "https://github.com/chupacabraswap/",
@@ -2216,66 +2212,13 @@ var socials = [
             {
                 label: "English",
                 href: "https://t.me/chupacabraswap",
-            },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            {
-                label: "中文",
-                href: "https://t.me/chupacabraswapchinese",
-            },
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            {
-                label: "Italiano",
-                href: "https://t.me/chupacabraswapitalian",
-            },
-            {
-                label: "русский",
-                href: "https://t.me/chupacabraswaprussian",
-            },
-            {
-                label: "Türkiye",
-                href: "https://t.me/ChupacabraswapTurkey",
-            },
-            // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
-            // },
-            {
-                label: "Español",
-                href: "https://t.me/chupacabraswapspanish",
-            },
-            {
-                label: "日本語",
-                href: "https://t.me/chupacabraswapjapanese",
-            },
-            {
-                label: "Français",
-                href: "https://t.me/chupacabraswapfrench",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/chupacabraswapann",
-            },
-            {
-                label: "Price Bot",
-                href: "https://t.me/BinanceRocketEGG",
-            },
+            }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
         href: "https://twitter.com/chupacabraswap",
-    },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/Chupacabraswapofficial",
     },
 ];
 var MENU_HEIGHT = 64;
