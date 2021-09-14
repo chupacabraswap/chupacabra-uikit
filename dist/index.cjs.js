@@ -2224,14 +2224,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/chupacabraswap",
+                href: "https://t.me/chupacabrafinance",
             }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/chupacabraswap",
+        href: "https://twitter.com/chupacabrafin",
     },
 ];
 var MENU_HEIGHT = 64;
