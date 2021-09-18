@@ -18,6 +18,7 @@ export { default as TradeIcon } from "./Trade";
 export { default as TwitterIcon } from "./Twitter";
 export { default as RedditIcon } from "./Reddit";
 export { default as AuditIcon } from "./Audit";
+export { default as RugDocIcon } from "./RugDoc";
 export { default as ChupacabraswapIcon } from "./Chupacabraswap";
 export { default as HandshakeIcon } from "./Handshake";
 export { default as LayerIcon } from "./Layer";
