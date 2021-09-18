@@ -3,7 +3,7 @@ import { SvgProps } from "../../../components/Svg/types";
 
 const Icon: React.FC<SvgProps> = (props) => {
   return (
-    <svg viewBox="0 0 140 95" fill="none" >
+    <svg viewBox="15 0 120 100" fill="none" width="26">
       <g clip-path="url(#clip0)">        
         <path
           fill-rule="evenodd"
